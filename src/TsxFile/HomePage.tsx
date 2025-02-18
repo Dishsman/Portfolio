@@ -25,7 +25,8 @@ const HomePage = () => {
   // }, [location]); 
   // useEffect(() => {
   //   setIsVisible(prev => !prev); //True to False False to True
-  // }, [location]);
+  // }, [location]); 
+  // xd
   return (
     <nav>
       {/* <div id='darken' style={{position:'absolute', width:'100vw', height:'100vh', background:'black'}}></div> */}
