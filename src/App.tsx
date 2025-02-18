@@ -1,10 +1,10 @@
 import './App.css'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import HomePage from './tsx file/HomePage'
-import FirstPage from './tsx file/FirstPage';
-import About from './tsx file/AboutPage';
-import ToolsPage from './tsx file/ToolsPage';
-import Resume from './tsx file/Resume';
+import HomePage from './TsxFile/HomePage'
+import FirstPage from './TsxFile/FirstPage';
+import About from './TsxFile/AboutPage';
+import ToolsPage from './TsxFile/ToolsPage';
+import Resume from './TsxFile/Resume';
 
 
 const App = () => {
