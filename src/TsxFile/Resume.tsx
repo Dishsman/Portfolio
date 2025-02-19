@@ -7,7 +7,7 @@ const Resume = () => {
         <div className="BgCover FadeIn2" style={{ position: 'absolute', right: '30%', left: '30%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <a href="resume-dev2HD.pdf" target="_blank">
             {/* blankทำให้เปิดเป็นแท็บใหม่ */}
-            <img src="ResumeDevNew.png" />
+            <img src="resume_dev2new.png" />
           </a>
         </div>
         <div id="option" style={{ display: 'flex', height: '100%', width: '60%', flexDirection: 'column' }}>
