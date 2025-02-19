@@ -14,7 +14,7 @@ const About = () => {
                 {/* span เป็นการเน้นคำพิเศษในบรรทัดไม่ให้ขึ้นบรรทัดใหม่หรือแบ่งกลายเป็นบล็อค */}
                 <div className="type type-set-1"> Hi i'm jirat, Despite Majoring in Chinese, I always had a strong interest in iT related field. </div> 
                 <div className="type type-set-2"> After graduation, I focused my time on learning front-end development</div>
-                <div className="type type-set-3"> and became experience in react-vite framework</div>
+                <div className="type type-set-3"> and became experience in React framework</div>
                 <div className="type type-set-4">but I'm not limited to it, as I always open to learn a new thing </div>
                 <div className="type type-set-5">to expand my skill set.</div>
                 {/* <pre className="type type-set-x"> Despite Majoring in Chinese, I always had a strong interest in iT related field.
