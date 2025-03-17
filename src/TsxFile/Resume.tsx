@@ -5,7 +5,7 @@ const Resume = () => {
     <nav>
       <div className="Bg" style={{ display: 'flex', justifyContent: 'end' }}>
         <div className="BgCover FadeIn2" style={{ position: 'absolute', right: '30%', left: '30%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          <a href="resume-dev2HD.pdf" target="_blank">
+          <a href="Jirat_Front_end_Developer_Resume.pdf" target="_blank">
             {/* blankทำให้เปิดเป็นแท็บใหม่ */}
             <img src="resume_dev2new.png" />
           </a>
